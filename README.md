@@ -7,4 +7,4 @@ This is the repository for Jasper Zhou's Digital Humanities 100 Project. For thi
 
 I will be using a the dataset from [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
 
-This is still a work in progress and will be updated shortly.
+This project is still a work in progress and will be updated shortly.
