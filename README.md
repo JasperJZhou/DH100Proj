@@ -1,8 +1,8 @@
 
-![Poster1](https://github.com/JasperJZhou/DH100Proj/blob/new/Storyboard_Jasper/STORYBOARD.png)
-![Poster2](https://github.com/JasperJZhou/DH100Proj/blob/new/Storyboard_Jasper/EDA.png)
-![Poster3](https://github.com/JasperJZhou/DH100Proj/blob/new/Storyboard_Jasper/SENTIMENT%20ANALYSIS.png)
-![Poster4](https://github.com/JasperJZhou/DH100Proj/blob/new/Storyboard_Jasper/MODEL%20FITTING.png)
+![Poster1](https://github.com/JasperJZhou/DH100Proj/blob/main/Storyboard_Jasper/STORYBOARD.png)
+![Poster2](https://github.com/JasperJZhou/DH100Proj/blob/main/Storyboard_Jasper/EDA.png)
+![Poster3](https://github.com/JasperJZhou/DH100Proj/blob/main/Storyboard_Jasper/SENTIMENT%20ANALYSIS.png)
+![Poster4](https://github.com/JasperJZhou/DH100Proj/blob/main/Storyboard_Jasper/MODEL%20FITTING.png)
 
 ----
 # Explanation of Contents
