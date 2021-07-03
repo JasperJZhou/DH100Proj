@@ -15,4 +15,4 @@ It contains the following items:
 3.  Data: No csv is actually hosted in this folder. It contains a markdown file with a link to the Kaggle Dataset I used. Unfortunately, the dataset was far too large to host in GitHub
 4.  Storyboard_Jasper: This is the final poster seen above in the Readme.md file. Specifically, these are the .png converted pdfs.
 
-In addititon, this following [Google Drive portfolio](https://drive.google.com/drive/u/0/folders/1X-jaMsc37yvi9HbzcS3hPvMXw-ydm0Pw) contains a 5-minute video explanation and the slides used in the aforementioned video.
+In addititon, this following [Google Drive portfolio](https://drive.google.com/drive/u/0/folders/1X-jaMsc37yvi9HbzcS3hPvMXw-ydm0Pw) contains a [5-minute video explanation](https://drive.google.com/file/d/16xYhScWLS1kn9YE9XWqaNdD0XGOnxVgl/view) and the [slides](https://docs.google.com/presentation/d/18r42TkLAJ_xYEQu95lueacUNk8n9aBbYEE8A2baSSlg/edit#slide=id.ge0f4214708_0_50) used in the aforementioned video.
